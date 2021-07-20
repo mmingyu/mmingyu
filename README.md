@@ -1,5 +1,3 @@
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=manguuu&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/manguuu)
-
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=msphere)](https://solved.ac/msphere)
 
