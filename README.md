@@ -20,7 +20,7 @@
  - Frameworks
     - Flutter
  - Problem Solving
-   -[Beakjoon](https://www.acmicpc.net/user/msphere)
+   - [Beakjoon](https://www.acmicpc.net/user/msphere)
 
 ## Github Graph
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=manguuu&area=false&theme=xcode&hide_border=true)
