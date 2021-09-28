@@ -24,5 +24,8 @@
  - [이미지인식 기반의 유통기한 관리 어플](https://github.com/manguuu/Refrigirator-App)
  - [주량 카운터](https://github.com/manguuu/howdrink)
 
+## BLOG
+ - [Mangu](https://mangu.tistory.com/)
+ 
 ## Github Graph
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=manguuu&area=false&theme=xcode&hide_border=true)
