@@ -25,7 +25,7 @@
  - [주량 카운터](https://github.com/manguuu/howdrink)
 
 ## BLOG
- - [Mangu](https://mangu.tistory.com/)
+ - [mangu](https://mangu.tistory.com/)
  
 ## Github Graph
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=manguuu&area=false&theme=xcode&hide_border=true)
