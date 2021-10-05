@@ -15,6 +15,7 @@
    - C/C++
    - Java
    - Dart
+   - Javascript
  - Frameworks
     - Flutter
  - Problem Solving
