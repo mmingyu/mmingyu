@@ -16,7 +16,7 @@
    - Java
    - Dart
    - Javascript
-   - python
+   - Python3
  - Frameworks
     - Flutter
  - Problem Solving
