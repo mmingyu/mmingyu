@@ -23,10 +23,10 @@
    - [Beakjoon](https://www.acmicpc.net/user/msphere)
 
 ## Projects
- - [이미지인식 기반의 유통기한 관리 어플](https://github.com/manguuu/Refrigirator-App)
- - [주량 카운터](https://github.com/manguuu/howdrink)
+ - [Expiration date management application based on deep learning](https://github.com/manguuu/Refrigirator-App)
+ - [Alcohol counter](https://github.com/manguuu/howdrink)
  - [MD previewer chrome extension](https://github.com/manguuu/browser-markdown-previewer-plugin)
- - [숭실대 북마크 크롬 익스텐션](https://github.com/manguuu/ssu-chrome-extension)
+ - [Soongsil Univ Bookmarker](https://github.com/manguuu/ssu-chrome-extension)
 
 ## BLOG
  - [mangu](https://mangu.tistory.com/)
