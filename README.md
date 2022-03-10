@@ -8,7 +8,7 @@
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=manguuu&)](#)
 
 ## School
- - (2020 ~) 숭실대학교 컴퓨터학부
+ - (2020 ~) Soongsil univ Computer Science and & Engineering
 
 ## Interest
  - Languages
