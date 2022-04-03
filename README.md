@@ -28,8 +28,9 @@
  - [MD previewer chrome extension](https://github.com/manguuu/browser-markdown-previewer-plugin)
  - [Soongsil Univ Bookmarker](https://github.com/manguuu/ssu-chrome-extension)
 
-## BLOG
- - [mangu](https://mangu.tistory.com/)
+## Channel
+ - [Blog](https://mangu.tistory.com/)
+ - [Email](mailto:alsrb4298@naver.com)
  
 ## Github Graph
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=manguuu&area=false&theme=xcode&hide_border=true)
