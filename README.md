@@ -23,8 +23,8 @@
    - [Beakjoon](https://www.acmicpc.net/user/msphere)
 
 ## Projects
- - [Expiration date management app](https://github.com/manguuu/Refrigirator-App)
- - [Alcohol counter](https://github.com/manguuu/howdrink)
+ - [유통기한 일정 관리 앱](https://github.com/manguuu/Refrigirator-App)
+ - [주량 카운터](https://github.com/manguuu/howdrink)
  - [MD previewer chrome extension](https://github.com/manguuu/browser-markdown-previewer-plugin)
  - [Soongsil Univ Bookmarker](https://github.com/manguuu/ssu-chrome-extension)
 
