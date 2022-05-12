@@ -22,6 +22,7 @@
    - [Beakjoon](https://www.acmicpc.net/user/msphere)
 
 ## Projects
+ - [XAI base Dog breed classification](https://github.com/Classufy/xai-dog-breed-classification) (진행)
  - [유통기한 일정 관리 앱](https://github.com/manguuu/Refrigirator-App)
  - [주량 카운터](https://github.com/manguuu/howdrink)
  - [MD previewer chrome extension](https://github.com/manguuu/browser-markdown-previewer-plugin)
