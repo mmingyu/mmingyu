@@ -28,6 +28,11 @@
  - [MD previewer chrome extension](https://github.com/manguuu/browser-markdown-previewer-plugin)
  - [Soongsil Univ Bookmarker](https://github.com/manguuu/ssu-chrome-extension)
 
+## Activity
+ - 2022 코드잼 Qualification Round 통과
+ - 2022 Kick start 1697th
+ - 2021 SCPC 1라운드 통과
+
 ## Channel
  - [Blog](https://mangu.tistory.com/)
  - [Email](mailto:alsrb4298@naver.com)
