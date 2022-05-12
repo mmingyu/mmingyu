@@ -13,11 +13,10 @@
 ## Interest
  - Languages
    - C/C++
-   - Java
-   - Dart
-   - Javascript
    - Python3
- - Frameworks
+ - Frameworks & Libraries
+    - TensorFlow
+    - scikit-learn
     - Flutter
  - Problem Solving
    - [Beakjoon](https://www.acmicpc.net/user/msphere)
