@@ -33,9 +33,6 @@
  - 2022 Kick start 1697th
  - 2021 SCPC 2라운드 진출
 
-## Channel
- - [Blog](https://mangu.tistory.com/)
- - [Email](mailto:mingyuu.dev@gmail.com)
  
 ## Github Graph
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=manguuu&area=false&theme=xcode&hide_border=true)
