@@ -35,7 +35,7 @@
 
 ## Channel
  - [Blog](https://mangu.tistory.com/)
- - [Email](mailto:alsrb4298@naver.com)
+ - [Email](mailto:mingyuu.dev@gmail.com)
  
 ## Github Graph
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=manguuu&area=false&theme=xcode&hide_border=true)
