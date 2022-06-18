@@ -7,9 +7,9 @@
 
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=manguuu&)](#)
 
-## School
- - (2020 ~) Soongsil Univ Computer Science & Engineering
-
+## Education
+ - (2020.03 ~) Soongsil Univ Computer Science & Engineering
+ - (2022.06.22 ~) Google Developers Machine Learning Bootcamp 2022 
 ## Interest
  - Languages
    - C/C++
@@ -22,16 +22,16 @@
    - [Beakjoon](https://www.acmicpc.net/user/msphere)
 
 ## Projects
- - [XAI base Dog breed classification](https://github.com/Classufy/xai-dog-breed-classification) (진행중)
+ - [XAI base Dog breed classification](https://github.com/Classufy/xai-dog-breed-classification)
  - [유통기한 일정 관리 앱](https://github.com/manguuu/Refrigirator-App)
  - [주량 카운터](https://github.com/manguuu/howdrink)
  - [MD previewer chrome extension](https://github.com/manguuu/browser-markdown-previewer-plugin)
  - [Soongsil Univ Bookmarker](https://github.com/manguuu/ssu-chrome-extension)
 
 ## Activity
- - 2022 코드잼 Qualification Round 통과
+ - 2022 코드잼 Qualification Round 71p
  - 2022 Kick start 1697th
- - 2021 SCPC 2라운드 진출
+ - 2021 SCPC Round2 진출
 
  
 ## Github Graph
