@@ -29,7 +29,6 @@
 
 ## Activity
  - 2022 코드잼 Qualification Round 71p
- - 2022 Kick start 1697th
  - 2021 SCPC Round2 진출
 
  
