@@ -29,7 +29,6 @@
 
 ## Activity
  - 2022 MOBIS 알고리즘 경진대회 학생부 예선 123th
- - 2022 코드잼 Qualification Round 71p
  - 2021 SCPC Round2 진출
 
  
