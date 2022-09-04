@@ -27,7 +27,7 @@
    - [Beakjoon](https://www.acmicpc.net/user/msphere)
  
 ## 👨🏻‍💻 Projects
- - What is breed [Frontend](https://github.com/manguuu/whatisbreed-frontend) / [Backend](https://github.com/manguuu/whatisbreed-backend)
+ - [What is breed](https://whatisbreed.com/) / [Frontend](https://github.com/manguuu/whatisbreed-frontend) / [Backend](https://github.com/manguuu/whatisbreed-backend)
  - [XAI base Dog breed classification](https://github.com/Classufy/xai-dog-breed-classification)
  - [유통기한 일정 관리 앱](https://github.com/manguuu/Refrigirator-App)
  - [MD previewer chrome extension](https://github.com/manguuu/browser-markdown-previewer-plugin)
