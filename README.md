@@ -37,7 +37,7 @@
  - [mangu.tistory.com](https://mangu.tistory.com/)
 
 ## 🏆 Contest
- - 선배와 함께하는 실전 설계 프로그래밍 금상
+ - 2020 교내 실전 설계 프로그래밍 금상
  - 2022 MOBIS 알고리즘 경진대회 학생부 예선 123th
 
 ## Github Graph
