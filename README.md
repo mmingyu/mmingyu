@@ -7,8 +7,8 @@
 </div>
 
 ## 🏫 Education
- - (2020.03 ~ ) Soongsil Univ Computer Science & Engineering
- - (2022.06.22 ~ ) Google Developers Machine Learning Bootcamp 2022 
+ - Soongsil Univ Computer Science & Engineering
+ - Google Developers Machine Learning Bootcamp 2022 
 
 ## 💡 Interest
  - ✏️ Languages
