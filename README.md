@@ -36,10 +36,6 @@
 ## 🏠 BLOG
  - [mangu.tistory.com](https://mangu.tistory.com/)
 
-## 🏆 Contest
- - 2020 교내 실전 설계 프로그래밍 금상
- - 2022 MOBIS 알고리즘 경진대회 학생부 예선 123th
-
 ## 📝 Paper
 [XAI 기반 반려견 품종 분류](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=084eadfa92c7c31cc85d2949c297615a&keyword=XAI-based%20Dog%20Breed%20Classification)
 
