@@ -15,14 +15,11 @@
    - C/C++ 
    - Python3
  - 🛠 Frameworks & Libraries
+    - Spring
     - TensorFlow
     - FastAPI
     - Vue.js
-    - scikit-learn
- - 🌎 Env
-    - Ubuntu
     - Docker
-    - MacOS
  - 📚 Problem Solving
    - [Beakjoon](https://www.acmicpc.net/user/msphere)
  
