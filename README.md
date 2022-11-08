@@ -15,7 +15,6 @@
    - C/C++ 
    - Python3
  - 🛠 Frameworks & Libraries
-    - Spring
     - TensorFlow
     - FastAPI
     - Vue.js
